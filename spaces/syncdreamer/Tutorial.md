@@ -2,7 +2,7 @@
 - 一つの物体だけが写っている写真を準備してください。
 
 ### Spec
-A10Gで稼働
+A10Gで稼働(24GB~32GB)
 
 ### Usage Flow
 1. [Demo](https://huggingface.co/spaces/liuyuan-pal/SyncDreamer)に行きます。
