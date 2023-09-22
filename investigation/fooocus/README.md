@@ -14,6 +14,6 @@
 
 ### Related Links
 - [Fooocus](https://github.com/lllyasviel/Fooocus/tree/main)
-- [Fooocus Docs](https://github.com/lllyasviel/Fooocus/discussions/390)
-
+- [Fooocus Docs Upscale](https://github.com/lllyasviel/Fooocus/discussions/390)
+- [Foocus Docs Inpaint or Outpaint](https://github.com/lllyasviel/Fooocus/discussions/414)
 ### Related Notebooks
