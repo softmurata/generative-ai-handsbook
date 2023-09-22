@@ -23,3 +23,9 @@ python3 scripts/generate_template.py --project_type investigation --project_name
 ```
 python scripts/resize_image.py --image_path investigation/fooocus/results/moden_living_room_japan_inpainting_and_outpainting.png
 ```
+
+### Rule
+- google colabのリンクは必ず全体共有する設定を行う。
+- installation, demo data preparation, inference, anotherのような小分けを必ず入れる
+- 結果とかの表示は全て消す
+- 必ずgoogle colabのリンクを貼ったらgit pull
