@@ -9,9 +9,13 @@
 
 ### Results
 
-| before | after |
-| :--: | :--: |
-|  |  |
+before
+
+https://github.com/softmurata/generative-ai-handsbook/assets/67137475/a88ae0cc-cf24-4e41-962f-6c0f1ab75700
+
+after
+
+https://github.com/softmurata/generative-ai-handsbook/assets/67137475/147c59e7-97af-4a18-94c0-64c3ea0dac6a
 
 ### Related Links
 - [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything)
