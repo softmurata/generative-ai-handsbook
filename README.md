@@ -14,6 +14,12 @@
 
 ## Usage
 
+1. generate template
 ```
 python3 scripts/generate_template.py --project_type investigation --project_name test
+```
+
+2. resize results or docs image
+```
+python scripts/resize_image.py --image_path investigation/fooocus/results/moden_living_room_japan_inpainting_and_outpainting.png
 ```

@@ -4,6 +4,6 @@
 
 ### Architecture
 
-### Retults
+### Results
 
 ### Related Algorithm
