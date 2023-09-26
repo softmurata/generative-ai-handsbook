@@ -168,9 +168,13 @@ Y: Thank you, I will. Have a great day!
 
 normal speed
 
+[audioscript.wav.webm](https://github.com/softmurata/generative-ai-handsbook/assets/67137475/a89b4e2e-be26-4b4c-9998-81768414043d)
 
 
 slow speed
+
+
+[output.webm](https://github.com/softmurata/generative-ai-handsbook/assets/67137475/28e4c4f9-d476-4bdd-bdb2-6691de50d0c8)
 
 
 
